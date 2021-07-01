@@ -2,6 +2,7 @@ console.log("In new branch")
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 1a72782 (squash commit 5 & 2)
@@ -25,3 +26,6 @@ console.log("That is weird!")
 >>>>>>> 93744ab (5th commit in new)
 =======
 >>>>>>> 1a72782 (squash commit 5 & 2)
+=======
+
+>>>>>>> 1f39bba (1st commit in new branch)
