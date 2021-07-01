@@ -3,6 +3,7 @@ console.log("In new branch")
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 1a72782 (squash commit 5 & 2)
@@ -29,3 +30,7 @@ console.log("That is weird!")
 =======
 
 >>>>>>> 1f39bba (1st commit in new branch)
+=======
+console.log("Add some aother to try if another commit will let test.js appear twice in pull request
+"
+>>>>>>> 98d54a1 (3rd commit in new branch)
